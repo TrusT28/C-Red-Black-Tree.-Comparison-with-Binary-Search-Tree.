@@ -1,0 +1,11 @@
+D:\TrusT\Programmes\Programming II\Project\RBT2\RBT2\RBT2\bin\Debug\netcoreapp3.1\RBT2.exe
+D:\TrusT\Programmes\Programming II\Project\RBT2\RBT2\RBT2\bin\Debug\netcoreapp3.1\RBT2.deps.json
+D:\TrusT\Programmes\Programming II\Project\RBT2\RBT2\RBT2\bin\Debug\netcoreapp3.1\RBT2.runtimeconfig.json
+D:\TrusT\Programmes\Programming II\Project\RBT2\RBT2\RBT2\bin\Debug\netcoreapp3.1\RBT2.runtimeconfig.dev.json
+D:\TrusT\Programmes\Programming II\Project\RBT2\RBT2\RBT2\bin\Debug\netcoreapp3.1\RBT2.dll
+D:\TrusT\Programmes\Programming II\Project\RBT2\RBT2\RBT2\bin\Debug\netcoreapp3.1\RBT2.pdb
+D:\TrusT\Programmes\Programming II\Project\RBT2\RBT2\RBT2\obj\Debug\netcoreapp3.1\RBT2.csprojAssemblyReference.cache
+D:\TrusT\Programmes\Programming II\Project\RBT2\RBT2\RBT2\obj\Debug\netcoreapp3.1\RBT2.AssemblyInfoInputs.cache
+D:\TrusT\Programmes\Programming II\Project\RBT2\RBT2\RBT2\obj\Debug\netcoreapp3.1\RBT2.AssemblyInfo.cs
+D:\TrusT\Programmes\Programming II\Project\RBT2\RBT2\RBT2\obj\Debug\netcoreapp3.1\RBT2.dll
+D:\TrusT\Programmes\Programming II\Project\RBT2\RBT2\RBT2\obj\Debug\netcoreapp3.1\RBT2.pdb
